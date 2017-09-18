@@ -1,7 +1,7 @@
 package com.buddhabhushan.b.mobisysassignment.data.models;
 
 /**
- * Created by B on 17-09-2017.
+ * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
  */
 
 public class BaseModel {

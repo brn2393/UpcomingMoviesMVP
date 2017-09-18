@@ -6,12 +6,11 @@ import com.buddhabhushan.b.mobisysassignment.data.models.MovieImagesResponse;
 import com.buddhabhushan.b.mobisysassignment.domain.Constants;
 
 import retrofit2.Call;
-import retrofit2.Callback;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 /**
- * Created by B on 17-09-2017.
+ * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
  */
 public interface APIInterface {
 
