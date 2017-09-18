@@ -8,7 +8,7 @@ import com.buddhabhushan.b.mobisysassignment.data.models.MovieImagesResponse;
 import retrofit2.Call;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 16-Sep-17.
+ * Created by Buddhabhushan on 16-Sep-17.
  */
 
 public class MovieDetailsModel implements MovieDetails.Model {

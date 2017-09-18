@@ -6,7 +6,7 @@ import com.buddhabhushan.b.mobisysassignment.ui.base.Mvp;
 import retrofit2.Call;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 16-Sep-17.
+ * Created by Buddhabhushan on 16-Sep-17.
  */
 
 interface Main {

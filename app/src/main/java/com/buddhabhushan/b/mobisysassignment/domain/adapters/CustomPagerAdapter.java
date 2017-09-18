@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
+ * Created by Buddhabhushan on 17-Sep-17.
  */
 
 public class CustomPagerAdapter extends PagerAdapter {

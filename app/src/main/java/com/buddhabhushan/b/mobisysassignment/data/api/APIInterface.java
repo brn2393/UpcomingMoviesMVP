@@ -10,7 +10,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
+ * Created by Buddhabhushan on 17-Sep-17.
  */
 public interface APIInterface {
 

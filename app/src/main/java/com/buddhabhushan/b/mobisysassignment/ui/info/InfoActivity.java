@@ -8,7 +8,7 @@ import com.buddhabhushan.b.mobisysassignment.R;
 import com.buddhabhushan.b.mobisysassignment.ui.base.BaseActivity;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
+ * Created by Buddhabhushan on 17-Sep-17.
  */
 
 public class InfoActivity extends BaseActivity {

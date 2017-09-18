@@ -1,7 +1,7 @@
 package com.buddhabhushan.b.mobisysassignment.domain.adapters;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
+ * Created by Buddhabhushan on 17-Sep-17.
  */
 
 import android.content.Context;

@@ -26,7 +26,7 @@ import java.util.List;
 import butterknife.BindView;
 
 /**
- * Created by Buddhabhushan on 17-Sep-17. 17-Sep-17.
+ * Created by Buddhabhushan on 17-Sep-17.
  */
 
 public class MovieDetailsActivity extends BaseActivity implements MovieDetails.View {
