@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="no_data">No Data</string>
+    <string name="menu_information">Information</string>
+    <string name="developer_info">Developed by \nBuddhabhushan Naik</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_info">Information</string>
+    <string name="title_activity_main">Upcoming Movies</string>
+</resources>
